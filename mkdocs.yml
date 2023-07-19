@@ -1,0 +1,12 @@
+# Project information
+site_name: '自己紹介サイト'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: '#'

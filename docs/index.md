@@ -26,11 +26,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ##IT業界を目指してから取り組んでいること
 ###主に2023年5月頃～
-- 大学での学びも活用しつつ、食品検索WEB[アプリ]()開発   
-言語：Python  
-<!-- markdownエディタあり -->
 - Progateを用いたプログラミング学習
-- Azure、PowerPlatformを用いた開発
+- 大学での学びも活用しつつ、食品検索WEB[アプリ](https://shuichiramen-streamlit-food-app-origin-7frrc3.streamlit.app/)開発   
+言語：Python  
+- PowerApps、PowerAutomateを用いたチャットボット作成
 
 
 ##趣味
