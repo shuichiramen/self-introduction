@@ -27,8 +27,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## IT業界を目指してから取り組んでいること
 ### 主に2023年5月頃～
 - Progateを用いたプログラミング学習
-- 大学での学びも活用しつつ、食品検索WEB[アプリ](https://shuichiramen-streamlit-food-app-origin-7frrc3.streamlit.app/)開発   
-言語：Python  
+- 大学での学びも活用しつつ、食品検索WEBアプリ開発  
+テーマ「栄養素検索と望ましい食品のレコメンド」  
+開発環境：VS Code、プログラミング言語：Python、フレームワーク：Streamlit  
+コード管理：GitHub、レコメンド機能：OpenAI API  
+サイトはこちら→[アプリ](https://shuichiramen-streamlit-food-app-origin-7frrc3.streamlit.app/)   
+GitHub[リポジトリ](https://github.com/shuichiramen/streamlit.food)
 - PowerApps、PowerAutomateを用いたチャットボット作成
 
 
